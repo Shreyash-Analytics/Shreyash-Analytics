@@ -26,8 +26,7 @@ A passionate **Business Analytics & Data Science Student** focused on turning co
 ### 📈 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyash-analytics&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-analytics&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-analytics&theme=visual_studio_dark" alt="GitHub Streak" />
 </p>
 
 ---
