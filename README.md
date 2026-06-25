@@ -33,6 +33,6 @@ A passionate **Business Analytics & Data Science Student** focused on turning co
 
 ### 🤝 Let's Connect!
 - 💼 **LinkedIn:** (www.linkedin.com/in/shreyash-meshram-45ss)
-- 📧 **Email:** (mailto:shreyashmeshram6677@gmail.com)
+- 📧 **Email:** shreyashmeshram6677@gmail.com
 
 > "In God we trust, all others must bring data." — W. Edwards Deming
